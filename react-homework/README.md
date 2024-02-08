@@ -17,8 +17,14 @@
 ## 2.vite & react (eslint, prettier)
 
 상원님이 제공해 주신 초기설정 순서 요약대로 잘 따라함 
+![setting_sangwon](https://github.com/ryujinzz/react-mission04/assets/146301783/1bf6a3cc-a759-4542-9d8d-71da73b8d48d)
+
 
 
 ## 3. 초기 문서 설정
+<img width="203" alt="스크린샷 2024-02-08 오후 2 45 01" src="https://github.com/ryujinzz/react-mission04/assets/146301783/e42e5308-e64f-4624-8113-1cbef464c5fa">
+
 
 ## 4. tailwind 설정 
+정현님이 제공해주신 방법대로 따라함 
+이번에는 테일윈드 꼭 써보고 싶어서 여러사람한테 물어봄 
