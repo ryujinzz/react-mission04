@@ -31,3 +31,5 @@
 ## 4. tailwind 설정 
 정현님이 제공해주신 방법대로 따라함 
 <br/>이번에는 테일윈드 꼭 써보고 싶어서 여러사람한테 물어봄 
+<br/>https://peppered-sing-5f4.notion.site/79d0e13f3c9f44a48802968d02214d88
+<br/>위의 테일윈드 설정을 참고하고, tailwind.css를 jsx 파일에 연결 시킨다.
