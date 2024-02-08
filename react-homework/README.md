@@ -22,6 +22,8 @@
 
 
 ## 3. 초기 문서 설정
+1. 깃 이그노어에 .env 넣고 .env 파일 밖에 생성함
+2. vite 가 만들어준 필요없는 css 파일 삭제함, 필요없는 사진파일도 삭제함.  
 <img width="203" alt="스크린샷 2024-02-08 오후 2 45 01" src="https://github.com/ryujinzz/react-mission04/assets/146301783/e42e5308-e64f-4624-8113-1cbef464c5fa">
 
 
