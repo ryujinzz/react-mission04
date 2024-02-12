@@ -1,6 +1,5 @@
 module.exports = {
   env: {
-    module: true,
     browser: true,
     es2021: true,
     node: true,
@@ -28,5 +27,6 @@ module.exports = {
   plugins: ['react'],
   rules: {
     'react/prop-types': 'off',
+    'no-unused-vars': 'off',
   },
 };
